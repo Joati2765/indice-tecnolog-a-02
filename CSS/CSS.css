@@ -1,0 +1,35 @@
+body{
+	background-color: #353535;
+	color: #ffffff;
+}
+a{
+	text-decoration: none;
+	color: #0000ff;
+	padding: 1.1em;
+}
+a:visited{
+	color: #B35CFF;
+}
+a:hover, a:focus{
+	color: #ff0000;
+}
+a:active{
+	color: #00f0ff;
+}
+.índice{
+	font-family: "Lucida Console", "Courier New", serif;  
+}
+.seguridad{
+	font-family: sans-serif
+}
+img{
+	width: 280px;
+	height: 200px;
+	border: 6px double #ffffff;
+}
+li{
+	border: 3px solid #BFBFBF;
+	padding: 15px;
+	margin-top: 20px;
+	width: 400px; 
+}
