@@ -33,3 +33,7 @@ li{
 	margin-top: 20px;
 	width: 400px; 
 }
+.descripción{
+	width: 700px;
+	line-height: 1.3em;
+}
